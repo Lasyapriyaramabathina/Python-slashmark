@@ -31,33 +31,3 @@ python basicproject1.py
 
 
 
-# 🎯 Number Guessing Game - Python CLI
-
-This is a fun and interactive **Number Guessing Game** written in Python.
-
-The computer randomly picks a number between **1 and 200**, and you have **6 chances** to guess it. The game gives you hints like "Too Low" or "Too High" after each guess. You can play as many rounds as you like!
-
----
-
-## 🧩 Features
-
-- Random number generation between 1 and 200
-- User has 6 guesses per round
-- Hints after each guess: "Too low" or "Too high"
-- Input validation for:
-  - Non-numeric input
-  - Out-of-range numbers
-- Play again option after each round
-- Beginner-friendly code with clear logic
-
----
-
-## ▶️ How to Run
-
-1. Make sure you have Python installed.
-2. Save the script in a file (e.g., `number_guessing_game.py`)
-3. Open a terminal and run:
-
-```bash
-python guess#.py
-
